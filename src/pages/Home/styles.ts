@@ -12,6 +12,7 @@ export const Container = styled.div`
     flex-direction: column;
     background: url(${backgroundImg}) no-repeat center;
     background-size: cover;
+    overflow: hidden;
 `;
 
 export const Header = styled.div`
